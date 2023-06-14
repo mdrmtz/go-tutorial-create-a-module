@@ -1,4 +1,4 @@
-# Tutorial: Create a Go module
+# Tutorial: Get Started
 
 ## Table of Contents
 
